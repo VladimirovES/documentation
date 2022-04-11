@@ -1,32 +1,12 @@
-<!DOCTYPE html>
-
-<html>
-<head>
-	
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 7.3.2.2 (Linux)"/>
-	<meta name="created" content="2022-04-09T13:40:33.283143948"/>
-	<meta name="changed" content="2022-04-12T00:26:15.443094133"/>
-	
-	<style type="text/css">
-		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Liberation Sans"; font-size:x-small }
-		a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  } 
-		a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  } 
-		comment { display:none;  } 
-	</style>
-	
-</head>
 
 <body>
 <hr>
 	<p><center>
-		<h1>Обзор</h1>
+		<h1>ВкладОчки</h1>
 		<A HREF="#table0">Требования</A><br>
 		<A HREF="#table1">checklist</A><br>
 		
-	</center></p>
-<hr>
+	
 <A NAME="table0"><h1>Лист 1: <em>Требования</em></h1></A>
 <table cellspacing="0" border="0">
 	<colgroup width="105"></colgroup>
